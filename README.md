@@ -10,4 +10,10 @@ Solução usando HTML e CSS mobile-first
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
  
- 
+ ## Overview
+### Screenshot 
+![]()
+
+### Links
+
+-Solution  URL: [Add solution URL](https://scanner-qrcode-frontend-mentor.netlify.app/)
