@@ -12,7 +12,7 @@ Solução usando HTML e CSS mobile-first
  
  ## Overview
 ### Screenshot 
-![]URL(img.projeto-QR.png)
+
 
 ### Links
 
