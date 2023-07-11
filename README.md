@@ -14,4 +14,4 @@ Solução usando HTML e CSS mobile-first
 
 ### Links
 
--Solution  URL: [Add solution URL](https://scanner-qrcode-frontend-mentor.netlify.app/)
+Solution  URL: [Add solution URL](https://scanner-qrcode-frontend-mentor.netlify.app/)
